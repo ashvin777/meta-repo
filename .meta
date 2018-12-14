@@ -1,6 +1,6 @@
 {
   "projects": {
     "main": "https://github.com/ashvin777/git-submodule-main",
-    "dropdown": "https://github.com/ashvin777/git-submodule-dropdown"
+    "second": "https://github.com/ashvin777/git-submodule-dropdown"
   }
 }
